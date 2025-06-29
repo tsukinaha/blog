@@ -1,3 +1,5 @@
+![](image.png)
+
 # About
 Hi There! I am a CS Undergraduate student at Harbin Engineering University, China. I am interested in Rust and Desktop Linux. 
 
