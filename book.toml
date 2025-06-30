@@ -6,3 +6,4 @@ title = "Not A Blog"
 
 [output.html]
 no-section-label = true
+additional-css = ["./theme/css/catppuccin.css"]
