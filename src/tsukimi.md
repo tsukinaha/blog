@@ -1,4 +1,6 @@
 # tsukimi
+
+GitHub: [tsukinaha/Tsukimi](https://www.github.com/tsukinaha/Tsukimi)
 A simple third-party Jellyfin client for Linux.
 
 [![Telegram](https://img.shields.io/badge/-Telegram_Group-red?color=blue&logo=telegram&logoColor=white)](https://t.me/tsukimi_frying_crab) ![Commit Activity](https://img.shields.io/github/commit-activity/m/tsukinaha/Tsukimi/main) ![Top Language](https://img.shields.io/github/languages/top/tsukinaha/Tsukimi) ![Github License](https://img.shields.io/github/license/tsukinaha/Tsukimi) [![Linux CI](https://github.com/tsukinaha/tsukimi/actions/workflows/build_linux.yml/badge.svg)](https://github.com/tsukinaha/tsukimi/actions/workflows/build_linux.yml) [![Flathub Version](https://img.shields.io/flathub/v/moe.tsuna.tsukimi?color=white)](https://flathub.org/apps/details/moe.tsuna.tsukimi) [![Wiki](https://img.shields.io/badge/-Wiki-red?color=blue&logo=github&logoColor=white)](https://github.com/tsukinaha/tsukimi/wiki)
