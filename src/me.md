@@ -1,7 +1,7 @@
 ![](image.png)
 
 # About
-Hi There! I am a CS Undergraduate student at Harbin Engineering University, China. I am interested in Rust and Desktop Linux. 
+Hi There! I am a CS undergraduate student at an obscure university in a remote area. I am interested in Rust and Desktop Linux. 
 
 ### How to find me
 - Email: [rin@notalium.co](mailto:rin@notalium.co)
