@@ -3,3 +3,6 @@ authors = ["Inaha"]
 language = "en"
 src = "src"
 title = "Not A Blog"
+
+[output.html]
+no-section-label = true
