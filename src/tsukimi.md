@@ -16,13 +16,13 @@ You can play music and albums, as well as videos with more advanced settings.
 
 ## Screenshots
 <div align="center">
- <img src="./docs/tsukimi1.png"/>
+ <img src="https://github.com/tsukinaha/tsukimi/blob/main/docs/tsukimi1.png?raw=true"/>
 </div>
 <div align="center">
- <img src="./docs/tsukimi2.png"/>
+ <img src="https://github.com/tsukinaha/tsukimi/blob/main/docs/tsukimi2.png?raw=true"/>
 </div>
 <div align="center">
- <img src="./docs/tsukimi3.png"/>
+ <img src="https://github.com/tsukinaha/tsukimi/blob/main/docs/tsukimi3.png?raw=true"/>
 </div>
 
 ## Installation
