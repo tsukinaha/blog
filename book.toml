@@ -6,4 +6,5 @@ title = "Not A Blog"
 
 [output.html]
 no-section-label = true
+mathjax-support = true
 additional-css = ["./theme/css/catppuccin.css"]
