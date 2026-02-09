@@ -6,6 +6,9 @@
 
 ---
 
+# Posts - 2026
+- [01.12 为 IPv6 Only 的机器安装 Arch Linux](./POST_2026_02_09_11_31.md)
+
 # Posts - 2025
 - [07.03 Virtual Memory Note](./POST_2025_07_03_22_52.md)
 - [06.30 tomorin](./POST_2025_06_30_23_17.md)
